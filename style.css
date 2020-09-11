@@ -4,13 +4,13 @@
 }
 
 h1 {
-  color: red;
+
   font-size: 2rem;
   border: 0.1rem dotted red;
 }
 
 body {
-  background: #333;
+
   color: #fff;
 }
 
@@ -31,27 +31,27 @@ img {
 
 header {
   grid-area: header;
-  background: #fff;
+
 }
 
 nav {
   grid-area: nav;
-  background: red;
+
 }
 
 main {
   grid-area: main;
-  background: green;
+
 }
 
 aside {
   grid-area: aside;
-  background: gray;
+
 }
 
 footer {
   grid-area: footer;
-  background: yellow;
+
 }
 
 @media (max-width: 600px) {
